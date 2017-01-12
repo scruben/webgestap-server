@@ -1,0 +1,17 @@
+{
+  "name": "webgestap-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ruben Sanz",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.13.1",
+    "eslint-plugin-json": "^1.2.0",
+    "mocha": "^3.2.0"
+  }
+}
